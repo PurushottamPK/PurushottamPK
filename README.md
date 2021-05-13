@@ -1,10 +1,10 @@
 ### Hi there 👋 It's me Purushottam
-[ Computer Science Student at CEG Chennai ] 
+[ Computer Science Student at [ CEG Chennai, Anna University ](https://ceg.annauniv.edu/) ] 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 I’m currently working on [Gooogle-hareesh](http://gooogle-hareesh.web.app)                                                 
-- 🌱 I’m currently learning DSA
+- 🔭 I’m currently pursuing [ MCA ](https://www.shiksha.com/college/college-of-engineering-guindy-anna-university-guindy-chennai-51546/course-master-of-computer-applications-mca-296282)                                                 
+- 🌱 I’m currently learning DSA & Machine Learning
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
+- 🤔 I’m looking for help with Placements in Product Based Company
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
