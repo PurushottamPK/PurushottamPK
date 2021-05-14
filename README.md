@@ -1,5 +1,8 @@
-### Hi there 👋 It's me Purushottam
-"A Computer Science student at [ CEG Guindy, Anna University Chennai ](https://ceg.annauniv.edu/)"
+<h1 align="center">Hi 👋, I'm Purushottam</h1>  
+<h3 align="center">A Computer Science student at [ CEG Guindy, Anna University Chennai ](https://ceg.annauniv.edu/)</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PurushottamPK" alt="PurushottamPK" /> </p>  
+  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 I’m currently pursuing [ MCA ](https://www.shiksha.com/college/college-of-engineering-guindy-anna-university-guindy-chennai-51546/course-master-of-computer-applications-mca-296282)                                                 
 - 🌱 I’m currently learning DSA & Machine Learning
