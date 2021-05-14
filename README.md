@@ -21,7 +21,7 @@
 <br> <br>
 </p>
 
-<img align="right" width="330" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="310" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 I’m currently solving algorithm challenges at [**GFG**](https://auth.geeksforgeeks.org/user/purushottamkumar4/practice/)
                                                  
@@ -41,9 +41,9 @@
 
 <p align="center">
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurushottamPK&show_icons=true&count_private=true&theme=dark" height="195">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=PurushottamPK&show_icons=true&count_private=true&theme=dark" height="170">&nbsp;
   <!--I have to Change This Later ******* -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=html" height = "195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=html" height = "170">
    <br>
    <br>
   <img src="https://komarev.com/ghpvc/?username=PurushottamPK&color=green&label=+Profile+Views" alt="PurushottamPK" height="25"/> 
