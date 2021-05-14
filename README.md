@@ -9,7 +9,17 @@
 - 📫 How to reach me : <br /><div style="margin-top:20px;">[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/pkr.bca/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Puru_bca) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pk-bca/)</div>
 - 😄 Pronouns : Techie
 - ⚡ Fun fact : When I type, I sometimes like to use three dots…instead of a comma. It just feels more me..
-    
+<p align='center'>
+  <br>
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=PurushottamPK&show_icons=true&count_private=true&theme=dark" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurushottamPK&layout=compact&theme=dark&hide=css,html" height = "175">
+   <br>
+   <br>
+  <img src="https://komarev.com/ghpvc/?username=PurushottamPK&color=green&label=+Developers+Inspired"/>
+</a>
+</p>
+
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
