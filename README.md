@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Purushottam</h1>  
-<h3 align="center">A Computer Science student at [ CEG Guindy, Anna University Chennai ](https://ceg.annauniv.edu/)</h3>  
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Purushottam</h1>  
+<h3 align="center">A Computer Science student at College of Engineering, Chennai</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PurushottamPK" alt="PurushottamPK" /> </p>  
   
